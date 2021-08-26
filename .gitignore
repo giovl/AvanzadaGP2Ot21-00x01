@@ -1,0 +1,6 @@
+# Archivos a ignorar en el repositorio
+borrar.txt
+*.tmp
+# Directorios a ignorar en el repositorio
+
+/debug
